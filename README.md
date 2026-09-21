@@ -9,9 +9,9 @@
 - **Live Production Website (Vercel)**: [https://global-logistic-control.vercel.app](https://global-logistic-control.vercel.app)
 - **Local Operational Dashboard**: [http://localhost:5173/](http://localhost:5173/)
 - **Interactive Report and Deliverables Center**: [http://localhost:5173/reports](http://localhost:5173/reports)
-- **Local Documents Folder**: `C:\2026 A-Z\Global logistics\`
-- **GitHub Repository**: [https://github.com/Rashmigowda1206/Global-logistics.git](https://github.com/Rashmigowda1206/Global-logistics.git)
-- **Backup Repository**: [https://github.com/panchaksharayya12/Global-logistic-control.git](https://github.com/panchaksharayya12/Global-logistic-control.git)
+- **Dedicated Local Documents Folder**: `C:\2026 A-Z\Global logistics\`
+- **Author and Lead Engineer**: [panchaksharayya12](https://github.com/panchaksharayya12)
+- **GitHub Repository**: [https://github.com/panchaksharayya12/Global-logistic-control.git](https://github.com/panchaksharayya12/Global-logistic-control.git)
 
 ---
 
@@ -74,8 +74,8 @@ The application is configured for deployment on Vercel:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Rashmigowda1206/Global-logistics.git
-cd Global-logistics
+git clone https://github.com/panchaksharayya12/Global-logistic-control.git
+cd Global-logistic-control
 
 # 2. Install dependencies
 npm install
@@ -88,10 +88,9 @@ The web dashboard will be available at: **`http://localhost:5173/`**
 
 ---
 
-## Author and Repositories
+## Author and Copyright
 
-- **Repositories**:
-  - Main: [https://github.com/Rashmigowda1206/Global-logistics.git](https://github.com/Rashmigowda1206/Global-logistics.git)
-  - Backup: [https://github.com/panchaksharayya12/Global-logistic-control.git](https://github.com/panchaksharayya12/Global-logistic-control.git)
+- **Lead Engineer & Author**: [panchaksharayya12](https://github.com/panchaksharayya12)
+- **Repository**: [https://github.com/panchaksharayya12/Global-logistic-control.git](https://github.com/panchaksharayya12/Global-logistic-control.git)
 - **Local Deliverables Path**: `C:\2026 A-Z\Global logistics\`
 - All rights reserved.
