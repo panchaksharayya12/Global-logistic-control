@@ -7,8 +7,9 @@
 ## Quick Links and Live Application
 
 - **Live Production Website (Vercel)**: [https://global-logistic-control.vercel.app](https://global-logistic-control.vercel.app)
+- **Permanent Mirror (GitHub Pages)**: [https://panchaksharayya12.github.io/Global-logistic-control/](https://panchaksharayya12.github.io/Global-logistic-control/)
 - **Local Operational Dashboard**: [http://localhost:5173/](http://localhost:5173/)
-- **Interactive Report and Deliverables Center**: [http://localhost:5173/reports](http://localhost:5173/reports)
+- **Interactive Report and Deliverables Center**: [http://localhost:5173/#/reports](http://localhost:5173/#/reports)
 - **Dedicated Local Documents Folder**: `C:\2026 A-Z\Global logistics\`
 - **Author and Lead Engineer**: [panchaksharayya12](https://github.com/panchaksharayya12)
 - **GitHub Repository**: [https://github.com/panchaksharayya12/Global-logistic-control.git](https://github.com/panchaksharayya12/Global-logistic-control.git)
